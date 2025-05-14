@@ -6,7 +6,7 @@ Este proyecto se sumerge en el fascinante mundo de la producción de vino, utili
 
 Este trabajo representa el proyecto final desarrollado como parte del curso de **Data Science en Coderhouse**. El desarrollo se estructuró en dos etapas principales:
 
-1.  **Pre-entrega:** Enfocada en la comprensión inicial de los datos, la limpieza, el análisis exploratorio (EDA) y la formulación de hipótesis preliminares. Esta fase sentó las bases para un análisis más profundo.
+1.  **Pre-entrega:** Enfocada en la comprensión inicial de los datos, la limpieza, el análisis exploratorio (EDA) y la formulación de hipótesis preliminares. Esta fase sentó las bases para un análisis más profundo. **[Ver notebook](ProyectoDSParteIAlbornozJuanCruz.ipynb)**
 2.  **Entrega Final:** Culminó con la ingeniería de características adicionales, la validación de hipótesis, el desarrollo y evaluación de modelos de machine learning para predicción, y la consolidación de conclusiones y recomendaciones.
 
 ## ¿De qué va el Proyecto? 🍇➡️📊
