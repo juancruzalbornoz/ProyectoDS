@@ -42,4 +42,10 @@ Este proyecto no solo revela patrones en la producción de vino, sino que tambi�
 
 ➡️ **¡Explora el notebook para descubrir los resultados detallados, las visualizaciones clave y las conclusiones de nuestro modelo predictivo!** ¿Qué factores resultaron ser los verdaderos game-changers? ¿Cuán preciso puede ser un modelo al catar digitalmente un vino?
 
+## 📊 Presentación de Resultados
+
+Para una visión general de nuestro viaje analítico, los hallazgos clave y las conclusiones del proyecto, puedes consultar nuestra presentación:
+
+➡️ **[Ver la Presentación en PDF (Análisis de Vino)](Descubriendo-los-Secretos-de-un-Vino-Excepcional.pdf)**
+
 ---
