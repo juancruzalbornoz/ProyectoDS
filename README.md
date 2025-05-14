@@ -2,6 +2,13 @@
 
 Este proyecto se sumerge en el fascinante mundo de la producción de vino, utilizando un conjunto de datos simulados para desentrañar los factores que definen la excelencia y la viabilidad económica de cada lote. Desde la cepa hasta la copa, seguimos el viaje del vino a través de un análisis de datos exhaustivo y la aplicación de técnicas de modelado predictivo.
 
+## Marco del Proyecto y Contexto Académico 📝
+
+Este trabajo representa el proyecto final desarrollado como parte del curso de **Data Science en Coderhouse**. El desarrollo se estructuró en dos etapas principales:
+
+1.  **Pre-entrega:** Enfocada en la comprensión inicial de los datos, la limpieza, el análisis exploratorio (EDA) y la formulación de hipótesis preliminares. Esta fase sentó las bases para un análisis más profundo.
+2.  **Entrega Final:** Culminó con la ingeniería de características adicionales, la validación de hipótesis, el desarrollo y evaluación de modelos de machine learning para predicción, y la consolidación de conclusiones y recomendaciones.
+
 ## ¿De qué va el Proyecto? 🍇➡️📊
 
 Imagina poder anticipar la calidad de un vino antes incluso de que termine su crianza, o entender exactamente qué decisiones de producción tienen el mayor impacto en el puntaje final y en el precio de mercado. Este proyecto aborda precisamente eso:
