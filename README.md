@@ -6,7 +6,7 @@ Este proyecto se sumerge en el fascinante mundo de la producción de vino, utili
 
 Este trabajo representa el proyecto final desarrollado como parte del curso de **Data Science en Coderhouse**. El desarrollo se estructuró en dos etapas principales:
 
-1.  **Pre-entrega:** Enfocada en la comprensión inicial de los datos, la limpieza, el análisis exploratorio (EDA) y la formulación de hipótesis preliminares. Esta fase sentó las bases para un análisis más profundo. **[Ver notebook](ProyectoDSParteIAlbornozJuanCruz.ipynb)**
+1.  **Pre-entrega:** Enfocada en la comprensión inicial de los datos, la limpieza, el análisis exploratorio (EDA) y la formulación de hipótesis preliminares. Esta fase sentó las bases para un análisis más profundo. ➡️ **[Ver notebook](ProyectoDSParteIAlbornozJuanCruz.ipynb)**
 2.  **Entrega Final:** Culminó con la ingeniería de características adicionales, la validación de hipótesis, el desarrollo y evaluación de modelos de machine learning para predicción, y la consolidación de conclusiones y recomendaciones.
 
 ## ¿De qué va el Proyecto? 🍇➡️📊
@@ -47,7 +47,7 @@ Más allá de los números, nos enfocamos en contar una historia con los datos. 
 
 Este proyecto no solo revela patrones en la producción de vino, sino que también sienta las bases para tomar decisiones más inteligentes y basadas en datos en la industria vitivinícola.
 
-➡️ **¡Explora el notebook para descubrir los resultados detallados, las visualizaciones clave y las conclusiones de nuestro modelo predictivo!** ¿Qué factores resultaron ser los verdaderos game-changers? ¿Cuán preciso puede ser un modelo al catar digitalmente un vino?
+**¡Explora el notebook para descubrir los resultados detallados, las visualizaciones clave y las conclusiones de nuestro modelo predictivo!** ¿Qué factores resultaron ser los verdaderos game-changers? ¿Cuán preciso puede ser un modelo al catar digitalmente un vino?
 
 ## 📊 Presentación de Resultados
 
