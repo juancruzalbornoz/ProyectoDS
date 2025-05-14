@@ -47,7 +47,7 @@ Más allá de los números, nos enfocamos en contar una historia con los datos. 
 
 Este proyecto no solo revela patrones en la producción de vino, sino que también sienta las bases para tomar decisiones más inteligentes y basadas en datos en la industria vitivinícola.
 
-**¡Explora el notebook para descubrir los resultados detallados, las visualizaciones clave y las conclusiones de nuestro modelo predictivo!** ¿Qué factores resultaron ser los verdaderos game-changers? ¿Cuán preciso puede ser un modelo al catar digitalmente un vino?
+➡️ **[¡Explora el notebook para descubrir los resultados detallados, las visualizaciones clave y las conclusiones de nuestro modelo predictivo!](ProyectoDS_ParteII_AlbornozJuanCruz.ipynb)** ¿Qué factores resultaron ser los verdaderos game-changers? ¿Cuán preciso puede ser un modelo al catar digitalmente un vino?
 
 ## 📊 Presentación de Resultados
 
