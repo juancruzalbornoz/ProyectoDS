@@ -42,7 +42,7 @@ Más allá de los números, nos enfocamos en contar una historia con los datos. 
 
 ## ¿Quieres Saber Más? 🤔
 
-➡️ **[¡Explora el notebook para descubrir los resultados detallados, las visualizaciones clave y las conclusiones de nuestro modelo predictivo!](ProyectoDSII)** ¿Qué factores resultaron ser los verdaderos game-changers? ¿Cuán preciso puede ser un modelo al catar digitalmente un vino?
+➡️ **[¡Explora el notebook para descubrir los resultados detallados, las visualizaciones clave y las conclusiones de nuestro modelo predictivo!](ProyectoDSParteIIAlbornozJuanCruz.ipynb)** ¿Qué factores resultaron ser los verdaderos game-changers? ¿Cuán preciso puede ser un modelo al catar digitalmente un vino?
 
 ## 📊 Presentación de Resultados
 
