@@ -48,6 +48,6 @@ Más allá de los números, nos enfocamos en contar una historia con los datos. 
 
 Para una visión general de nuestro viaje analítico, los hallazgos clave y las conclusiones del proyecto, puedes consultar nuestra presentación:
 
-➡️ **[Ver la Presentación en PDF (Análisis de Vino)](Descubriendo-los-Secretos-de-un-Vino-Excepcional.pdf)**
+➡️ **[Ver la Presentación en PDF (Calidad del Vino)](Calidad_del_Vino.pdf)**
 
 ---
